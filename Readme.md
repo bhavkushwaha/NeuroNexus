@@ -1,2 +1,2 @@
-# NeuroNexus Internship
-Web Development Internship
+# NeuroNexus
+WebDevelopment Internship
