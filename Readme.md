@@ -1,2 +1,0 @@
-# NeuroNexus
-WebDevelopment Internship
